@@ -1,0 +1,1244 @@
+npm
+node -v
+npm
+node -v
+npm install -g typescript
+npm install -g typings
+cd C:\Sources\cursos\curso angular 2\plantilla angular2
+cd..
+cd C:\Sources\cursos\curso angular 2\angular2
+npm install -f
+cd c:
+cd c:\
+mkdir angular
+cd angular\
+npm install --save
+npm install 
+npm init
+npm install @angular/common @angular/core @angular/compiler --save 
+npm install @angular/platform-browser @angular/platform-browser-dynamic --save 
+npm install @angular/router @angular/router-deprecated --save 
+npm install es6-shim reflect-metadata rxjs zone.js --save 
+npm install systemjs --save 
+npm install bootstrap --save 
+tsc --init --experimentalDecorators --emitDecoratorMetadata --target ES5 --module system --moduleResolution node
+typings -v
+tsc --watch
+cd .
+npm install -g angular-cli
+cd
+cd angular\angular2-seed\
+ls
+ cd angular2-seed\
+npm install
+npm start
+cd ..
+cd angular2
+ng new angular2Test
+ng new angular
+ng
+exit
+ng
+exit
+cd c: º
+cd c:\
+cd Sources\Curso
+cd Sources\CursoAngular2\
+mv a.gitignore.txt .gitignore
+rm angular.gitignore 
+ls
+cd Sources\
+mkdir "curso-asp.core-angular2"
+cd curso-asp.core-angular2\
+exit
+ng
+exit
+cd c: º
+cd c:\
+cd Sources\Curso
+cd Sources\CursoAngular2\
+mv a.gitignore.txt .gitignore
+rm angular.gitignore 
+ls
+cd Sources\
+cd Curso
+cd CursoAngular2\
+cd angular2\
+npm i bootstrap@3 --save
+npm clean
+npm uninstall bootstrap@4
+"ls
+ng build
+npm i
+ng serve
+npm i -g yo generator-aspnetcore-spa
+yo generator-aspnetcore-spa
+yo aspnetcore-spa
+yo aspnetcore-spa
+cd Sources\curso-asp.core-angular2\
+code .
+yo aspnetcore-spa
+cd Sources\
+cd curso-asp.core-angular2\
+cd..
+mkdir vega
+cd vega\
+yo aspnetcore-spa
+dotnet run
+set ASPNETCORE_ENVIRONMENT="Development"
+ng build
+npm i
+ng serve
+npm i -g yo generator-aspnetcore-spa
+yo generator-aspnetcore-spa
+yo aspnetcore-spa
+yo aspnetcore-spa
+cd Sources\curso-asp.core-angular2\
+yo aspnetcore-spa
+mkdir vega
+cd vega\
+yo aspnetcore-spa
+cd Sources\
+code .
+cd..
+cd curso-asp.core-angular2\
+ls
+dotnet new console
+dotnet restore
+set ASPNETCORE_ENVIRONMENT=Development
+set ASPNETCORE_ENVIRONMENT="Development"
+dotnet run
+set ASPNETCORE_ENVIRONMENT="Development"
+cd curso-asp.core-angular2\
+dotnet new console
+dotnet restore
+set ASPNETCORE_ENVIRONMENT=Development
+set ASPNETCORE_ENVIRONMENT="Development"
+cd Sources\curso-asp.core-angular2\
+ls
+ls -a
+export ASPNETCORE_ENVIRONMENT=Development
+dotnet run
+cd
+history
+cd Sources\curso-asp.core-angular2\
+ls
+dotnet run
+history
+ls
+cd Sources\curso-asp.core-angular2\
+dotnet new console
+dotnet restore
+dotnet run
+dotnet new console
+dotnet restore
+dotnet run
+cd Sources\vega\
+webpack --config webpack.config.vendor.js
+webpack
+dotnet ef migrations add InitialModel
+set ASPNETCORE_ENVIRONMENT="Development"
+cd Sources\curso-asp.core-angular2\
+ls
+ls -a
+export ASPNETCORE_ENVIRONMENT=Development
+dotnet run
+cd
+history
+cd Sources\curso-asp.core-angular2\
+ls
+ls
+cd Sources\curso-asp.core-angular2\
+dotnet new console
+
+CD Sources\vega\
+dotnet ef
+dotnet ef migrations --help
+dotnet ef migrations add --help
+history
+
+dotnet --help
+dotnet build
+dotnet restore
+dotnet watch run
+npm i -g webpack
+webpack
+dotnet run
+cd Sources\vega\
+code .
+dotnet run
+webpack --config webpack.config.vendor.js
+webpack
+dotnet ef migrations add InitialModel
+set ASPNETCORE_ENVIRONMENT="Development"
+cd Sources\curso-asp.core-angular2\
+ls
+ls -a
+export ASPNETCORE_ENVIRONMENT=Development
+dotnet run
+cd
+history
+cd Sources\curso-asp.core-angular2\
+ls
+cd Sources\curso-asp.core-angular2\
+dotnet new console
+CD Sources\vega\
+dotnet ef
+dotnet ef migrations --help
+dotnet ef migrations add --help
+history
+dotnet --help
+dotnet build
+dotnet watch run
+npm i -g webpack
+webpack
+dotnet run
+code .
+cd Sources\vega\
+dotnet add package AutoMapper
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
+dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection --version 1.2.0
+mkdir Mapping
+dotnet run
+cd app\
+cd components\
+cd ClientApp\
+cd app\components\
+la
+ls
+npm install @angular/cli@lastest --save-dev
+npm install @angular/cli@latest --save-dev
+dotnet restore
+ng g component vehicle-form
+cd ..
+cd vega\
+
+cd ClientApp\app\components\
+node -v
+ng -v
+ng generate component vehicle-form
+cd
+history
+cd Sources\curso-asp.core-angular2\
+ls
+ls
+cd Sources\curso-asp.core-angular2\
+dotnet new console
+CD Sources\vega\
+dotnet ef
+dotnet ef migrations --help
+dotnet ef migrations add --help
+history
+dotnet --help
+dotnet build
+dotnet restore
+npm i -g webpack
+webpack
+dotnet run
+cd Sources\vega\
+dotnet run 
+code .
+npm install -g dpcker
+npm install -g docker
+docker ps
+dotnet ef migrations add InitialModel
+dotnet ef migrations database update
+dotnet ef database update 0
+dotnet ef database update InitialModel
+dotnet ef migrations add ApplyConstraints
+dotnet ef migrations add ApplyConstraints -f
+dotnet ef migrations add ApplyConstraints --force
+dotnet ef migrations add ApplyConstraints 
+
+dotnet ef migrations remove
+dotnet ef migrations add SeedDatabase2
+dotnet ef database update
+dotnet watch run
+dotnet run
+npm clear cache
+npm clear
+npm --help
+npm -l
+npm cache clean
+npm i -g @angular-cli
+npm install -g angular-cli
+cd Sources\vega\
+cd ClientApp\app\components\
+ng g component vehicle-form
+npm uninstall -g angular-cli
+npm clear cache
+npm install -g @angular-cli
+npm install -g @angular-cli
+npm install -g @angular-cli
+npm install@angular/cli@latest -g
+npm install @angular/cli@latest -g
+cd Sources\vega\ClientApp\app\components\
+ng -v
+ng g component vehicle-form
+dotnet run
+cd ..
+mkdir Services
+mkdir services
+mv Services\ services
+ls
+cd services\
+ng g service make
+ ng g service feature
+cd ClientApp\app\components\
+ng g component vehicle-form
+npm uninstall -g angular-cli
+npm clear cache
+npm install -g @angular-cli
+npm install -g @angular-cli
+npm install -g @angular-cli
+npm install@angular/cli@latest -g
+npm install @angular/cli@latest -g
+cd Sources\vega\ClientApp\app\components\
+ng -v
+ng g component vehicle-form
+cd ..
+mkdir Services
+mkdir services
+mv Services\ services
+ls
+cd services\
+ng g service make
+ ng g service feature
+cd Sources\openix.points\
+dotnet run
+
+dotnet restore
+dotnet watch run
+npm install -g @angular-cli
+npm install -g @angular-cli
+npm install -g @angular-cli
+npm install@angular/cli@latest -g
+npm install @angular/cli@latest -g
+cd Sources\vega\ClientApp\app\components\
+ng -v
+ng g component vehicle-form
+dotnet run
+cd ..
+mkdir Services
+mkdir services
+mv Services\ services
+ls
+cd services\
+ng g service make
+ ng g service feature
+cd Sources\openix.points\
+code .
+npm install materialize-css --save
+npm install angular2-materialize --save
+npm install jquery@^2.2.4 --save
+npm install hammerjs --save
+webpack --config webpack.config.vendor.js 
+webpack --config webpack.config.js 
+webpack
+cd Sources\vega\
+code .
+cd Sources\AspNetCoreSpa\
+code .
+webpack
+cd Sources\openix.points\
+npm i @angular/cli@latest --save-dev
+npm install materialize-css --save
+npm install angular2-materialize --save
+npm install jquery@^2.2.4 --save
+npm install hammerjs --save
+netcore run
+dotnet run
+ng g component vehicle-form
+mkdir Services
+mkdir services
+mv Services\ services
+cd services\
+ng g service make
+ ng g service feature
+cd Sources\vega\
+code.
+code .
+webpack
+cd .. 
+cd openix.points\
+npm install -save @angular/animations
+webpack --config webpack.config.js 
+webpack --config webpack.config.vendor.js 
+cd ..
+cd Sources\AspNetCoreSpa\
+ls
+ls -
+ls -a
+npm i
+dotnet restore
+dotnet run
+npm install@angular/cli@latest -g
+npm install @angular/cli@latest -g
+cd Sources\vega\ClientApp\app\components\
+ng -v
+ng g component vehicle-form
+dotnet run
+mkdir Services
+mkdir services
+mv Services\ services
+cd services\
+ng g service make
+ ng g service feature
+cd Sources\vega\
+webpack --config webpack.config.vendor.js 
+webpack 
+dotnet watch runH
+dotnet restore
+cd ..
+ls
+cd
+cd..
+cd openix.points\
+ npm install -S @angular/material
+code .
+npm install -S hammerjs
+npm install --save-dev @types/hammerjs
+netcore watch run
+netcore restore
+npm o
+npm i
+ng serve
+dotnet watch run
+mkdir services
+mv Services\ services
+ls
+cd services\
+ng g service make
+ ng g service feature
+cd Sources\openix.points\
+code .
+npm install materialize-css --save
+npm install angular2-materialize --save
+npm install jquery@^2.2.4 --save
+npm install hammerjs --save
+webpack --config webpack.config.vendor.js 
+webpack --config webpack.config.js 
+webpack
+cd Sources\
+cd AspNetCoreSpa\
+dotnet restore
+dotnet ef database update
+dotnet run
+cd Sources\openix.points\
+rm *
+rm * -R
+ls -a
+rm -R .git\
+rm * -R
+ls -a
+rm -R .git\
+cd Sources\
+cd openix.points\
+ls
+npm install ng2-toasty --save
+netcore run
+webpack --config config\webpack.dev.js 
+dotnet run
+webpack --config config\webpack.dev.js 
+cd Sources\aeroFrontend\
+webpack --config webpack.config.vendor.js 
+dotnet run
+dotnet run
+webpack --config config\webpack.dev.js 
+cd Sources\aeroFrontend\
+webpack --config webpack.config.vendor.js 
+cd Sources\openix-dev\sgie-aspcore\
+npm i
+dotnet restore
+code .
+npm i compodoc -g
+dotnet ef migrations add "Initial"
+dotnet run
+webpack --config webpack.config.vendor.js 
+npm i generator-aspnetcore-spa -g
+ls
+dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
+cd Sources\openix-dev\sgie-aspcore\
+cd dotnet run
+dotnet run
+npm install mdbootstrap --save
+exit
+ net stop was /y
+ net stop was /y
+docker 
+dotnet run
+webpack --config config\webpack.dev.js 
+cd Sources\aeroFrontend\
+webpack --config webpack.config.vendor.js 
+cd Sources\openix-dev\sgie-aspcore\
+dotnet restore
+code .
+npm i compodoc -g
+dotnet ef migrations add "Initial"
+dotnet run
+webpack --config webpack.config.vendor.js 
+npm i generator-aspnetcore-spa -g
+ls
+dotnet new --install Microsoft.AspNetCore.SpaTemplates::*
+cd Sources\openix-dev\sgie-aspcore\
+cd dotnet run
+dotnet run
+npm install mdbootstrap --save
+exit
+cd Sources\tec\
+dotnet ef database initial
+dotnet ef database update  initial
+dotnet ef database update
+dotnet clean
+dotnet restore 
+dotnet add package Microsoft.AspNetCore.Server.IISIntegration
+node_modules/webpack/bin/webpack.js --config config/webpack.prod.js --env.prod
+webpack node_modules/webpack/bin/webpack.js --config config/webpack.prod.js --env.prod
+dotnet watch run
+npm i @types/jquery
+npm i @types/jquery --save
+"C:\\Program Files\\IIS\\Microsoft Web Deploy V3\\msdeploy.exe" -verb:sync -enableRule:AppOffline -source:contentPath="%USERPROFILE%\AspNetCoreSpa\bin\release\netcoreapp1.1\publish" -dest:contentPath="aspnetcorespa",ComputerName="https://yoursitename.scm.azurewebsites.net/msdeploy.axd",UserName='yourusername',Password='yourpassword',AuthType='Basic'
+npm i
+npm run build:prod
+clear
+dotnet publish
+docker build bin\Debug\netcoreapp1.1\publish -t aspnetcorespa
+docker run -it -d -p 85:80 aspnetcorespa
+docker --version
+docker ps
+docker info
+exit
+ipconfig
+net stop was /y
+net stop was /y
+cd HIS-Clinica\
+ls
+npm i
+ng serve
+cd Sources\
+ls
+mkdir nav
+cd nav\
+ng c nav
+ng help
+ng new nav
+cd ls
+cd HIS-Clinica\
+ng serve
+cd HIS-Clinica\
+ng serve
+asdasd
+netstat -aob
+netstat
+cd Sources\HIS\HIS.Web\
+dotnet run
+cd Sources\HIS\HIS.Web\
+dotnet run
+cd Sources\HIS\HIS.Web\ClientApp\app\+contract-professionals\
+ls
+npm install -g @angular/cli
+ng g component contract-professional-detail
+cd Sources\HIS\HIS.Web\
+dotnet run
+gulp
+cd Sources\HIS\HIS.Web\
+dotnet run
+cd Sources\Infocorp\PE_BIF_ICHB\
+ls
+cd Tailored\1_PresentationLayer\UserInterface\Tailored.ICBanking.UI\
+npm i
+npm i -g gulp-cli
+npm i gulp -D
+gulp
+npm i -g gulp-cli
+npm i gulp -D
+npm i -g gulp
+npm ls -g
+gulo
+node -v
+gulp
+npm i gulp -D
+gulp
+npm i gulp -D
+npm ls -g
+gulo
+node -v
+npm cache clean
+npm cache clean --force
+node
+npm
+node -v 
+npm i -g gulp
+npm i -g gulp-cli
+gulp
+gulp
+gulp --version
+typings
+npm -g i typings
+cd 
+cd Sources\Infocorp\PE_BIF_ICHB\Tailored\1_PresentationLayer\UserInterface
+cd Tailored.ICBanking.UI\
+ls
+banbifweb
+banbifweb
+ls
+vi
+vi
+banbifui
+alias help
+alias /reload
+alias 
+exit
+alis
+alias
+iisreset
+alias
+banbifui
+iisreset
+cd Tailored.ICBanking.UI\
+c
+issreset
+issreset
+iisreset
+ipconfig
+ipconfig /flushdns
+ipconfig /releaseall
+ipconfig /renew
+alias banbifui
+banbifui
+ls
+ts
+ipconfig /renew
+alias banbifui
+ls
+banbifui
+ts
+alias
+alias /help
+copyts
+alias /reload
+alias 
+ts
+alias
+alias /help
+banbifui
+alias 
+alias /reload
+copyts
+exit
+banbifui 
+ts
+banbifui 
+exit
+banbifui 
+as
+banbifui 
+exit
+banbifui 
+as
+history
+banbifui 
+ts
+ts
+git config --system core.longpaths true
+git
+alias
+alias help
+icbanking
+icbanking
+iisreset
+alias help
+icbanking
+icrun
+alias
+ttbank
+ttbank
+icbanking 
+npm i
+icrun 
+cuscatlan
+banbifui 
+as
+history
+banbifui 
+ts
+ts
+git config --system core.longpaths true
+git
+alias
+alias help
+icbanking
+icbanking
+alias help
+icbanking
+alias
+ttbank
+cd Sources\Infocorp\ICBanking
+cd ICBanking\1_PresentationLayer\UserInterfaceNative\Infocorp.Framework.Html5UI\
+grunt beatufy
+grunt beatify
+cd ..
+rm -rf node_modules
+npm i 
+ls
+code package.json
+npm i grunt@1.3.2 -g
+npm i grunt -g
+npm i grunt-cli -g
+grunt
+grunt beautify
+cd c:\Sources\Infocorp\SV_Cuscatlan_ICBv5\Tailored\1_PresentationLayer\UserInterface\Tailored.ICBanking.UI\
+pwd
+alias cuscatlan=c:\Sources\Infocorp\SV_Cuscatlan_ICBv5\Tailored\1_PresentationLayer\UserInterface\Tailored.ICBanking.UI
+alias cuscatlan=cd c:\Sources\Infocorp\SV_Cuscatlan_ICBv5\Tailored\1_PresentationLayer\UserInterface\Tailored.ICBanking.UI
+cuscatlan 
+npm i
+icrun
+iisreset
+icbanking
+icrun
+alias
+ttbank
+issreset
+iisreset
+cuscatlan
+cus
+cuscatlan
+issreset
+iisreset
+cuscatlan
+cus
+cuscatlan
+alias
+rbank 
+cd ..
+ls
+cd UserInterfaceNative\
+npm i
+grunt build --web --release --tailored --nofindsyntaxerrors --android --campaigns=true
+rbank 
+npm i
+icrun
+icrun > C:\icrun.log
+issreset
+iisreset
+cd ..
+ls
+cd UserInterfaceNative\
+npm i
+grunt build --web --release --tailored --nofindsyntaxerrors --android --campaigns=true
+rbank 
+npm i
+icrun
+icrun > C:\icrun.log
+iisreset
+icrun > C:\icrun.log
+iisreset
+ping 10.250.80.144
+rbank 
+ic run
+icrun
+npm i
+ic run
+npm i
+rbank 
+icrun
+netstat -a -n -o
+icrun
+netstat -a -n -o
+iisreset
+grunt --version
+rbank 
+cd ..
+cd..
+
+history
+cd Infocorp.Framework.AndroidUI\
+grunt build --web --release --tailored --nofindsyntaxerrors --android --campaigns=true   
+history
+cd Infocorp.Framework.AndroidUI\
+rbank 
+cd ..
+cd UserInterfaceNative\
+npm i
+grunt build --web --release --tailored --nofindsyntaxerrors --android --campaigns=true   
+iisreset
+ping 172.30.8.7
+ping 172.30.18.7
+ping 172.30.8.7
+cmd
+cmd --help
+iisreset
+iisreset
+iisreset
+rbank 
+isrun
+icrun
+npm i 
+npm i ñ
+alias
+chrome-inseguro 
+iisreset
+iisreset
+rbank 
+cd ..
+cd UserInterfaceNative\
+ls
+grunt build --release --web --campaigns=true --tailored --android
+iisreset
+rbank 
+icrunall 
+icrun
+icrunall 
+icrun
+ping IIB.com
+chrome-insecure 
+chrome-insecure 
+ficoui 
+chrome-insecure 
+ficoui 
+netcat
+nmap
+nmap -p
+ping google.com 80
+ping google.com -p80
+ping google.com -p 80
+ping google.com 
+telnet
+icui
+icui
+bifui
+alias
+alias apk
+icui
+bifui
+alias
+bifnative 
+apk
+bifnative
+apk
+apk
+bifui
+alias
+bifnative 
+apk
+bifnative
+apk
+apk
+bifui
+ls
+icrun
+gulp libs && gulp copyMetadataFromResources & gulp sass & gulp ts & gulp extensions
+npm install gulp-shell
+npm install gulp -g
+npm install typings –g
+npm install typings -g
+npm install typings
+typings install
+npm install gulp-add-src
+npm install gulp-inline-ng2-template
+npm install
+npm install gulp-add-src
+npm install gulp-inline-ng2-template
+bifui
+npm install
+alias
+gulp libs && gulp copyMetadataFromResources & gulp sass & gulp ts & gulp extensions
+npm install gulp-sass
+ (gulp copyMetadataFromResources) && (gulp ts) && (gulp dts) && (gulp extensions)
+ (gulp copyMetadataFromResources) 
+npm i node-sass
+ (gulp copyMetadataFromResources) 
+npm i "gulp-sass": "3.0.0"
+npm install -g windows-build-tools
+npm i gulp-sass:3.0.0
+npm i gulp-sass
+gulp libs
+gulp copyMetadataFromResources
+npm i gulp-sass
+gulp libs
+gulp copyMetadataFromResources
+bifnative
+ls
+apk
+gulp libs
+gulp copyMetadataFromResources
+bifnative
+ls
+apk
+icui
+node --version
+npm i
+icrun
+gulp copyMetadataFromResources
+bifnative
+ls
+bifnative 
+apk
+apk
+iisreset
+lafise
+apk
+iisreset
+lafise
+cd Sources\Openix\proyecto-openix-sia\
+cd frontend\
+cg serve
+npm i
+npm install -g @angular/cli
+ng serve
+nvm install 12.0
+ng serve
+nvm install 12.0
+chrome-insecure 
+cd Sources\Infocorp\RBL_Trinidad\Tailored\1_PresentationLayer\UserInterfaceNative\
+install grunt-cli -g
+npm install grunt-cli -g
+npm install grunt -g
+apk
+c:Sources\Infocorp\RBL_Trinidad\Tailored\1_PresentationLayer\UserInterface\Tailored.ICBanking.UI\
+cd c:Sources\Infocorp\RBL_Trinidad\Tailored\1_PresentationLayer\UserInterface\Tailored.ICBanking.UI\
+icrun
+gulp libs
+gulp copyMetadataFromResources
+bifnative
+ls
+apk
+gulp libs
+gulp copyMetadataFromResources
+bifnative
+ls
+apk
+icui
+node --version
+npm i
+icrun
+gulp copyMetadataFromResources
+bifnative
+bifnative 
+apk
+apk
+iisreset
+lafise
+apk
+iisreset
+cd Sources\Openix\proyecto-openix-sia\
+cd frontend\
+cg serve
+npm install -g @angular/cli
+ng serve
+nvm install 12.0
+ng serve
+nvm install 12.0
+chrome-insecure 
+cd Sources\Infocorp\RBL_Trinidad\Tailored\1_PresentationLayer\UserInterfaceNative\
+install grunt-cli -g
+npm install grunt-cli -g
+npm install grunt -g
+c:Sources\Infocorp\RBL_Trinidad\Tailored\1_PresentationLayer\UserInterface\Tailored.ICBanking.UI\
+cd c:Sources\Infocorp\RBL_Trinidad\Tailored\1_PresentationLayer\UserInterface\Tailored.ICBanking.UI\
+icrun
+ping vlafiseqa
+lafise
+lafiseui 
+cd ..
+ls
+cd UserInterfaceNative\
+npm i
+grunt build --web --release --tailored  --android --campaigns=true 
+grunt-ng-annotate
+grunt ng-annotate
+grunt ng-annotate --help
+alias apk
+grunt build --force --web --release --tailored --nofindsyntaxerrors --android --campaigns=true
+grunt build --web --release --tailored --nofindsyntaxerrors --android --campaigns=true --verbose
+H
+apk
+lafiseui 
+grunt build --force --web --release --tailored --nofindsyntaxerrors --android --campaigns=true
+grunt build --web --release --tailored --nofindsyntaxerrors --android --campaigns=true --verbose
+H
+apk
+lafiseui 
+cd Sources\DEX\playerhtml\
+Install yarn
+npm Install yarn
+npm i yarn
+npm install --global yarn
+alias apk
+yarn global add cordova@7.1.0 gulp
+cd syncserver && yarn
+node -v
+nvm
+nvm list
+nvm install 10.19
+nvm use 10.19.0
+cd dex-plugin-autostart\
+cd ..\dex-cordova-plugin\
+yarn
+cd ,,
+cd ..
+ls
+yarn dev
+yarn build
+yarn symlinks
+cordova platform add android
+cordova 
+cordova platform add android
+cordova 
+yarn global add cordova@7.1.0 gulp
+cordova
+%appdata%\npm\cordova
+cordova 
+cordova platform add android
+cordova 
+yarn global add cordova@7.1.0 gulp
+cordova
+%appdata%\npm\cordova
+lafisenative 
+vlafiseqa
+ping lafiseqa
+ping vlafiseqa
+apk
+explorer .
+cd build\
+ls
+rm release\
+rm release\ -R
+rm release\ -R - f
+rm release\ -R -f
+rm release\ -R --force
+lsof
+kill
+vi
+iisreset
+node --version
+nvm list
+nvm install 6.11.0
+nvm use 6.11.0
+nvm use 6.11.0
+lafiseui
+npm run
+node --version
+nvm list
+nvm install 10.9.0
+nvm list
+nvm list
+cd Sources\Archivados\
+md sherlock
+git clone https://github.com/sherlock-project/sherlock.git
+ls
+cd sherlock\
+python3
+python3 --version
+lafisenative 
+grunt buildProject
+explorer .\build\release\
+chrome-insecure 
+nvm install 10.9.0
+nvm list
+lafisenative 
+lafiseui 
+icrun
+lafiseui 
+icrun
+python3
+quiet
+python3 --version
+py
+py --version
+cd Sources\Archivados\sherlock\sherlock\
+python3 -m pip install -r requirements.txt
+py -m pip install -r requirements.txt
+py sherlock mts1788
+lafiseui 
+icrun
+ipconfig
+py sherlock mts1788
+icrun
+lafiseui 
+y
+npm cache clear --force
+npm i
+icrunall
+lafisenative 
+grunt buildProyect
+grunt buildProject
+explorer .
+ipconfig
+icrunall
+oosreset
+iireset
+iisreset
+icrunall
+oosreset
+iireset
+iisreset
+chrome-insecure 
+grunt buildProject
+explorer .
+ipconfig
+oosreset
+iireset
+iisreset
+lafiseui 
+rm node_modules\ -Rf
+npm list
+nvm cache clear --force
+nvm clear cache --force
+npm cache clear --force
+npm cache verify
+npm i
+icrun
+nv, list
+nvm list
+nvm use 10.22.0
+rm -rf node_modules && rm package-lock.json && npm cache verify npm install
+rm -rf node_modules && npm cache verify npm install
+rm -rf node_modules && npm cache verify && npm install
+icrun 
+icrunall
+icrunall
+iisreset
+nvm list
+nvm use 10.22.0
+rm -rf node_modules && rm package-lock.json && npm cache verify npm install
+rm -rf node_modules && npm cache verify npm install
+rm -rf node_modules && npm cache verify && npm install
+icrun 
+icrunall
+lafiseui 
+ icrun
+ icrun
+icrun
+cd arh
+arh
+alias
+cd c:\Sources\Openix\Openix_ARH\
+dotnet ef
+dotnet ef database
+dotnet ef migrations
+dotnet ef migrations add -h
+dotnet ef migrations add Initial -s Openix_ARH\Openix.ARH.Infrastructure.WebApi\
+cd Openix_ARH
+dotnet ef migrations add Initial -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure - o Persistence\Migrations
+dotnet ef database update -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations
+dotnet ef migrations add Initial2 -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations
+dotnet ef migrations add Initial -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations
+dotnet ef database remove -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure 
+dotnet ef database drop -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure 
+dotnet ef database update -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure 
+dotnet ef migrations
+dotnet ef migrations add -h
+dotnet ef migrations add Initial -s Openix_ARH\Openix.ARH.Infrastructure.WebApi\
+dotnet ef migrations add Initial -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure - o Persistence\Migrations
+dotnet ef database update -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations
+dotnet ef migrations add Initial2 -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations
+dotnet ef database remove -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure 
+dotnet ef database drop -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure 
+iisreset
+cd arh
+arh
+alias
+cd Sources\Openix\Openix_ARH\
+cd Openix_ARH
+dotnet ef migrations add Initial -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations --verbose
+dotnet build
+dotnet ef migrations add Initial -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations
+dotnet ef database update -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure 
+update
+lafiseui 
+icrun
+dotnet ef database drop -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure 
+iisreset
+cd arh
+cd Sources\Openix\Openix_ARH\
+cd Openix_ARH
+dotnet ef migrations add Initial -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations --verbose
+dotnet build
+dotnet ef migrations add Initial -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Persistence\Migrations
+dotnet ef database update -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure 
+update
+lafiseui 
+icrun
+arh
+migration initial
+alias
+dropdatabase
+alias databaseupdate
+databaseupdate=dotnet ef database drop -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure
+database update
+dotnet ef database drop -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure
+migration initialModel
+migration remove_null_TeamAndSenioriy
+databaseupdate
+databaseupdate
+npm install --global expo-cli
+arh
+cd ..
+ls
+md app_react
+cd app_react\
+nvm list
+nvm use 14.15.0
+expo init arh
+cd ..
+ls
+md app_react
+cd app_react\
+nvm list
+nvm use 14.15.0
+expo init arh
+arh
+migration remove_seeds
+migration add_IdentityDbContext
+databaseupdate
+dotnet ef migrations remove -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure
+dotnet ef migrations -h
+dotnet ef migrations remove --help
+dotnet ef database update remove_seeds -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure
+dotnet ef database update remove_seeds -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -c ApplicationDbContext
+dotnet ef migrations add InitModel -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -c ApplicationDbContext
+md app_react
+cd app_react\
+nvm list
+nvm use 14.15.0
+expo init arh
+migration remove_seeds
+migration add_IdentityDbContext
+databaseupdate
+dotnet ef migrations remove -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure
+dotnet ef migrations -h
+dotnet ef migrations remove --help
+dotnet ef database update remove_seeds -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure
+dotnet ef database update remove_seeds -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -c ApplicationDbContext
+dotnet ef migrations add InitModel -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -c ApplicationDbContext
+arh
+alias /?
+alias hola=echo 'hola'
+hola
+alias migration_identity
+alias migration_identity= dotnet ef migrations add $1 -s Openix.ARH.Infrastructure.WebApi\ -p Openix.ARH.Infrastructure -o Identity\Migrations -c IdentityUsersDbContext /f aliases
+migration_identity InitialModel
+aliases
+alias
+alias /reload
+alias /reload /f aliases
+alias /f aliases /reload
+alias
+alias
+alias
+alias /restore
+alias /reload
+alias
+clear
+alias
+alias
+alias > 
+alias || 
+alias
+alias 2> nul
+alias 2>nul
+alias >null 2>&1
+alias >null 
+alias > nul
